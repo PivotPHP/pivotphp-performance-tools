@@ -19,10 +19,6 @@ High-performance pooling, caching, and optimization tools for PivotPHP.
 composer require pivotphp/performance-tools
 ```
 
-## Documentation
-
-See [docs/](docs/) for detailed documentation.
-
 ## License
 
-MIT
+MIT - see [LICENSE](LICENSE) for details.
