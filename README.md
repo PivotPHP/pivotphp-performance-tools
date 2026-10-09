@@ -1,5 +1,16 @@
 # PivotPHP Performance Tools
 
+> [!WARNING]
+> **This project is discontinued and the repository is archived (2026-10-09).**
+>
+> `pivotphp/performance-tools` was never released (no tagged version) and has no test
+> suite. The PivotPHP ecosystem is focusing on the correctness of `pivotphp/core` before
+> adding optimization layers, so this package will not be maintained.
+>
+> - Do not add it as a dependency of new projects.
+> - Use [`pivotphp/core`](https://github.com/PivotPHP/pivotphp-core) directly.
+> - The code remains available for reference only.
+
 High-performance pooling, caching, and optimization tools for PivotPHP.
 
 ## Features
